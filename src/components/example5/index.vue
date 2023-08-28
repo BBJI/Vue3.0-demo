@@ -21,7 +21,7 @@
 </script>
 
 <template>
-    <h2>示例5：keepAlive, getCurrentInstance</h2>
+    <h2>示例5：keepAlive, getCurrentInstance, defineExpose, defineProps, defineEmits, inject, provide</h2>
     <button @click="toggleComponent">切换组件</button>
     <br/>
     <keep-alive>
